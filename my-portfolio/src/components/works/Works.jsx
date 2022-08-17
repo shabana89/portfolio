@@ -1,7 +1,7 @@
 import "./works.scss";
 
 function Works() {
-  return <div className="works"></div>;
+  return <div className="works">Works</div>;
 }
 
 export default Works;
