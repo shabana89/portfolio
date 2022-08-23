@@ -8,7 +8,18 @@ function Intro() {
           <img src="assets/me.png" alt="" />
         </div>
       </div>
-      <div className="right"></div>
+      <div className="right">
+        <div className="wrapper">
+          <h2>Hi There, I'm</h2>
+          <h1>Shabana Kauser</h1>
+          <h3>
+            I am a..<span></span>
+          </h3>
+        </div>
+        <a href="#portfolio">
+          <img src="assets/down.png" alt="" />
+        </a>
+      </div>
     </div>
   );
 }
