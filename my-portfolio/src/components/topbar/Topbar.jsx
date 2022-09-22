@@ -1,5 +1,6 @@
 import "./topbar.scss";
-import { Person, Mail } from "@mui/icons-material";
+import { Mail } from "@mui/icons-material";
+import GitHubIcon from "@mui/icons-material/GitHub";
 
 function Topbar({ menuOpen, setMenuOpen }) {
   return (
@@ -10,8 +11,8 @@ function Topbar({ menuOpen, setMenuOpen }) {
             SK
           </a>
           <div className="itemContainer">
-            <Person className="icon" />
-            <span>07760903081</span>
+            <GitHubIcon className="icon" />
+            <span>https://github.com/shabana89</span>
           </div>
           <div className="itemContainer">
             <Mail className="icon" />
