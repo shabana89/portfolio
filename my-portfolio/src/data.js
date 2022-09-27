@@ -1,19 +1,19 @@
-export const featuredPortfolio = [
+import fourweekproject from "../src/assets/fourweekproject.png";
+
+export const portfolioProjects = [
   {
     id: 1,
-    title: "To-do List",
-    img: "https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png",
+    title: "Access U App",
+    img: fourweekproject,
+    alt: "Accessibility App",
+    link: "https://accessu-undefinedsoc.vercel.app",
   },
 
   {
     id: 2,
-    title: "Meditation App",
-    img: "https://www.androidauthority.com/wp-content/uploads/2017/09/best-meditation-apps-headspace.jpg",
-  },
-
-  {
-    id: 3,
-    title: "Accessibility App",
-    img: "hhttps://www.androidauthority.com/wp-content/uploads/2017/09/best-meditation-apps-headspace.jpg",
+    title: "Tic-Tac-Toe",
+    img: "https://thecodingtrain.com/static/c49264d3eb9b8bdc84d5df1ac51c3cfd/b444b/tictactoe.png",
+    alt: "Tic-Tac-Toe game",
+    link: "http://127.0.0.1:5500/Tic-Tac-Toe/index.html",
   },
 ];
