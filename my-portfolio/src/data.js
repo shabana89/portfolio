@@ -1,4 +1,4 @@
-import fourweekproject from "../src/assets/fourweekproject.png";
+import fourweekproject from "../src/assetsTwo/fourweekproject.png";
 
 export const portfolioProjects = [
   {
