@@ -22,6 +22,6 @@ export const portfolioProjects = [
     title: "To-do List",
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSFb0b4D0QjeeepuAa1nmcksjmNSC0dfRijA&usqp=CAU",
     alt: "To-do List app",
-    link: "",
+    link: "https://github.com/shabana89/To-do-list-app",
   },
 ];
